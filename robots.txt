@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://990ready.com/sitemap.xml
