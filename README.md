@@ -6,6 +6,6 @@ The public holding page at https://990ready.com, served by GitHub Pages from `ma
 
 - `index.html`: the page, one file, no build step. Obligare's design language (Instrument Serif, DM Sans, Obsidian) with 990 Ready's green accent.
 - `fonts/`: the same self hosted fonts as obligare.com (SIL Open Font License).
-- `CNAME`: the custom domain. DNS is at GoDaddy: four A records for GitHub Pages on `@`, and `www` as a CNAME to `alleviate-technologies.github.io`. 990ready.us forwards here.
+- `CNAME`: the custom domain. DNS is at GoDaddy: four A records for GitHub Pages on `@`, and `www` as a CNAME to `alleviate-technologies.github.io`. 990ready.us, 990ready.org, get990ready.com and get990ready.org forward here (GoDaddy domain forwarding, permanent, to https://990ready.com).
 
 House style: American English, no em dashes, no hyphenated compound modifiers. The page makes no claim that 990 Ready files returns.
